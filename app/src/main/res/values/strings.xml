@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clean Master AI</string>
+    <string name="brand_title">CLEAN MASTER AI</string>
+    <string name="not_available">No disponible</string>
+    <string name="clear_data_warning_message">Esta operación puede eliminar cuentas iniciadas, configuraciones, archivos locales y datos guardados de la aplicación.</string>
+    <string name="clear_data_protected_warning">Atención de seguridad: Esta aplicación es crítica o un juego (como WhatsApp o títulos con progreso local). Asegúrate de tener copia de seguridad antes de borrar sus datos.</string>
+    <string name="usage_access_rationale">Para medir exactamente el tamaño de Aplicación, Datos y Caché de cada app con StorageStatsManager, Android requiere que autorices manualmente el Acceso a datos de uso.</string>
+    <string name="query_packages_explanation">CLEAN MASTER AI utiliza consultas dirigidas (&lt;queries&gt; para aplicaciones con lanzador) en lugar del permiso amplio QUERY_ALL_PACKAGES, reduciendo el acceso innecesario y cumpliendo las políticas de Google Play.</string>
+    <string name="query_all_packages_restriction">Nota sobre QUERY_ALL_PACKAGES: Google Play restringe este permiso únicamente a aplicaciones cuya función principal requiera visibilidad total de paquetes instalados (como antivirus o administradores completos) y exige una declaración obligatoria en Play Console.</string>
+</resources>

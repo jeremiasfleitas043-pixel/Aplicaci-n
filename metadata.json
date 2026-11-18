@@ -1,0 +1,6 @@
+{
+  "name": "Clean Master AI",
+  "description": "Administrador nativo de almacenamiento, caché, aplicaciones y limpieza inteligente para Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
